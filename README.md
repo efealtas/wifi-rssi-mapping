@@ -1,6 +1,6 @@
 # wifi-rssi-mapping
 
-Interactive Python tool to map WiFi signal measurements while walking around a room or even a whole house and accurately estimate where the router is.
+An interactive Python application for mapping WiFi signal measurements across a room or an entire home and accurately estimating router location.
 
 ## Features
 - RSSI sampling on each `done` step
